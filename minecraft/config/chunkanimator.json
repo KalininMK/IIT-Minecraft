@@ -1,0 +1,6 @@
+{
+  "mode": "BELOW",
+  "easingFunction": "SINE",
+  "animationDuration": 1000,
+  "disableAroundPlayer": false
+}

@@ -1,0 +1,11 @@
+{
+  "menu.singleplayer": "Singleplayer",
+  "menu.multiplayer": "Multiplayer",
+  "menu.online": "Minecraft Realms",
+  "menu.options": "Options...",
+  "menu.quit": "Quit Game",
+  "options.language": "Language...",
+  "options.accessibility": "Accessibility Settings...",
+  "loading.progress": "%s%%",
+  "multiplayer.downloadingTerrain": "Loading terrain..."
+}

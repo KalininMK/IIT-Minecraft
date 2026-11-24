@@ -1,0 +1,11 @@
+{
+  "menu.singleplayer": "Одиночная игра",
+  "menu.multiplayer": "Сетевая игра",
+  "menu.online": "Minecraft Realms",
+  "menu.options": "Настройки...",
+  "menu.quit": "Выйти из игры",
+  "options.language": "Язык...",
+  "options.accessibility": "Специальные возможности...",
+  "loading.progress": "%s%%",
+  "multiplayer.downloadingTerrain": "Загрузка территории..."
+}

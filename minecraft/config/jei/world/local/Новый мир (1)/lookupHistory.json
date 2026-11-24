@@ -1,0 +1,4 @@
+[
+  {"version":1},
+  {"ingredient":{"id":"minecraft:book","components":"{\"minecraft:item_name\":\u0027{\"translate\":\"item.antique_atlas.atlas\"}\u0027,\"minecraft:lore\":[\u0027{\"color\":\"gray\",\"italic\":false,\"translate\":\"item.antique_atlas.atlas.lore\"}\u0027,\u0027{\"color\":\"gray\",\"italic\":false,\"translate\":\"item.antique_atlas.atlas.hint\",\"with\":[{\"translate\":\"item.antique_atlas.atlas\"}]}\u0027]}"},"type":"item_stack","bookmarkType":"INGREDIENT"}
+]

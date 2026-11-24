@@ -1,0 +1,23 @@
+{
+  "spawnHeight": 40,
+  "spawnRadius": 80,
+  "farSpawnRadius": 120,
+  "farSpawnChance": 0.3,
+  "particlesPerTick": 200,
+  "spawnInterval": 3,
+  "playerFollowStrength": 0.015,
+  "airDrag": 0.98,
+  "fallSpeedMin": 0.08,
+  "fallSpeedMax": 0.1,
+  "sizeMin": 0.18,
+  "sizeMax": 0.25,
+  "alphaMin": 0.3,
+  "alphaMax": 0.45,
+  "swayAmountMin": 0.018,
+  "swayAmountMax": 0.043,
+  "swaySpeed": 0.4,
+  "windMin": 0.5,
+  "windMax": 1.0,
+  "rotationSpeed": 0.02,
+  "enableWeatherSound": true
+}
